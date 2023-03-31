@@ -102,8 +102,8 @@ namespace RegistrationService
                 
             }
 
-            // nickname already exist ?
-            // Password have UpperCaseletter, digit, symbol, mininmum uzunluq 12
+            // Add new user to Arrays
+            
 
         }
 
